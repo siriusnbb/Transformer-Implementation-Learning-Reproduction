@@ -15,11 +15,11 @@ and provide a clearer context for each component.
   without being overwhelmed by complex function dependencies.
 
 ## 🚀 Contents
-- `Utilities` — CPU/GPU/Display related functions (adapted from D2L example code)
-- `Download Data` — Prepare the test Data (adapted from D2L example code)
-- `Basic Functions for Transformer` — Basic functions needed to be used in Transformer (adapted from D2L example code and modified here)
-- `Transformer` —Rewritten Transformer encoder and decoder implementation (adapted from D2L example code and modified here)
-- `Training and Prediction` — Train the model and make simple predictions (adapted from D2L example code)
+- `Utilities` — CPU/GPU/Display related functions (Directly adapted from D2L example code)
+- `Download Data` — Prepare the test Data (Directly adapted from D2L example code)
+- `Basic Functions for Transformer` — Basic functions needed to be used in Transformer (Adapted from D2L example code and modified here)
+- `Transformer` —Rewritten Transformer encoder and decoder implementation (Adapted from D2L example code and modified here)
+- `Training and Prediction` — Train the model and make simple predictions (Directly adapted from D2L example code)
 
 ## 📚 References
 - Vaswani et al., *Attention Is All You Need*, NeurIPS 2017.
