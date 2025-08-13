@@ -24,6 +24,8 @@ and provide a clearer context for each component.
 ## 📚 References
 - Vaswani et al., *Attention Is All You Need*, NeurIPS 2017.
 - [Dive into Deep Learning (D2L)](https://github.com/d2l-ai/d2l-en)
+- @mantis522, *Transformerとは？数学を用いた徹底解説：Encoder編*, https://qiita.com/mantis522/items/b45494f4378b066d0432
+- xiaoh_7, *手撕Transformer！！从每一模块原理讲解到代码实现【超详细！】*, https://blog.csdn.net/xiaoh_7/article/details/140019530
 
 ## 📝 License
 This project is released under the MIT License.
