@@ -2,7 +2,7 @@
 
 This repository contains my personal learning reproduction of the Transformer model,
 inspired by the example code from the [Dive into Deep Learning (D2L)](https://github.com/d2l-ai/d2l-en) book.
-The goal of this project is to simplify the original implementation for beginners
+The goal of this project is to better understand transformer myself，simplify the original implementation for beginners
 and provide a clearer context for each component.
 
 ## 📌 Key Features
